@@ -4,3 +4,9 @@
 .nav-menu li{
     cursor: pointer;
 }
+hr{
+    border: none;
+    width: 80%;
+    height: 3px;
+    border-radius: 10px;
+}
