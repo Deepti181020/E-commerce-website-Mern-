@@ -4,9 +4,14 @@
 .nav-menu li{
     cursor: pointer;
 }
-hr{
+#hr1{
     border: none;
     width: 80%;
     height: 3px;
     border-radius: 10px;
+    background:black;
+}
+.nav-login-cart button{
+    border: 1px solid #7a7a7a;
+    border-radius: 75px;
 }
